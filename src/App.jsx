@@ -30,7 +30,7 @@ function App() {
               setColor("green");
             }}
             className="text-white px-3 py-2 rounded outline-none">
-            green
+            green 
           </button>
           <button
             style={{ backgroundColor: "Black" }}
